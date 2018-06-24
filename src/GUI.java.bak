@@ -99,7 +99,7 @@ public class GUI {
             fs.setVelocity(0);
             timer.start();
         }
-        //设置参数后弹簧
+        //设置参数后弹簧的运动变化
         public void start(float springK,float target,float dampingK) {
             timer.stop();
             elapsed = 0;
