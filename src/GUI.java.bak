@@ -9,7 +9,7 @@ import javax.swing.*;
 
 
 /**
- * 图形界面实现类  
+ * 图形界面实现类
  */
 public class GUI {
     //新建一个弹簧
